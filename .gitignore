@@ -1,0 +1,22 @@
+#### build
+classes
+target/
+
+#### review
+*review.xml
+review*.xml
+
+#### log
+log/
+
+#### ignore merge genreate file
+*.orig
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Mac
+.DS_Store
